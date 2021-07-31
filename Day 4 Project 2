@@ -1,4 +1,6 @@
-# day-4-project
+# Day-4-Project
 celsius = 50
+
 fahrenheit = (celsius * 1.8) + 32
+
 print('%0.1f degree Celsius is equal to %0.1f degree Fahrenheit' %(celsius,fahrenheit))
