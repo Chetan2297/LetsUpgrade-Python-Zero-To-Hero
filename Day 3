@@ -1,8 +1,9 @@
-# assignment-day-3
+# Assignment-Day-3
 import string
 
 alphabet = set(string.ascii_lowercase)
-  
+ 
+
 def ispangram(string):
     return set(string.lower()) >= alphabet
       
