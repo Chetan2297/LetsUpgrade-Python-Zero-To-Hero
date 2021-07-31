@@ -1,7 +1,7 @@
-# project-1
-# Project: OTP Generator
+# Day 2 Project-1
+# Project - OTP Generator
 
-# Generate a 6 character OTP
+# You Can Generate 6 character OTP
 
 import random as r
 
